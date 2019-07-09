@@ -1,0 +1,38 @@
+.banner{
+    width: 1115px;
+    margin: auto;
+    display: flex;
+}
+
+.banner ._1c{
+    width: 218px;
+}
+.banner ._2c{
+    width: 525px;
+    height: 540px;
+}
+
+.banner ._2c .tren{
+    height: 313px;
+}
+.banner ._2c .duoi{
+    display: flex;
+    height: 160px;
+}
+.banner ._2c .duoi .motnua{
+    width: 50%;
+}
+.banner ._3c{
+    flex-wrap: wrap; 
+    display: flex;
+    width: 362px;
+    height: 383px;
+}
+.banner ._3c .saudiv{
+    width: 50%;
+}
+
+img{
+    width: 100%;
+}
+
