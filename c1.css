@@ -1,0 +1,202 @@
+body {
+    background: url("../multi/background.jpg");
+}
+
+#container {
+    background-color: white;
+    width: 900px;
+    height: 600px;
+    margin: auto;   /*đưa ra giữa màn hình*/
+    border: 1px solid black;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+ul li {
+    list-style: none;
+}
+
+#header {
+    width: 900px;
+    height: 200px;
+    margin: 0px;
+}
+
+#top {
+    width: 900px;
+    height: 150px;
+    margin: 0px;
+    background-color:powderblue;
+}
+
+#header #logo{
+    width: 120px;
+    height: auto;
+    margin: 10px 0px 0px 10px;  
+    padding-left: 15px;
+    padding-top: 10px;
+    float: left;
+}
+
+#header #logo img {
+    width: 120px;
+    height: auto;
+}
+
+#title {
+    font-weight: bolder;
+    color:darkblue;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 5px;
+    padding-left: 30px;
+    width: 500px;
+    float: left;
+}
+
+#account {
+    width: 200px;
+    float: right;
+    padding-top: 120px;
+    padding-right: 0px;
+}
+
+#account button {
+    margin-right: 10px;
+    color: white;
+    background-color: blue;
+}
+
+#login {
+    width: 900px;
+    height: 50px;
+    margin: 0px;
+    float: left;
+    background-color: seashell;
+    border: 1px solid black;
+    border-right: none;
+    border-left: none;
+}
+
+#login form {
+    float: right;
+    padding-right: 5px;
+    padding-top: 15px;
+}
+
+#login form label {
+    font-weight: bold;
+}
+
+/*Content*/
+#content {
+    width: 900px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+#content #left{
+    float: left;
+    width: 650px;
+    height: 350px;
+}
+
+hr {
+    margin-left: 20px;
+}
+
+#newItem {
+    margin: 10px 0px -5px 20px;
+    font-size: 18px;
+    color:blue;
+}
+
+a {
+    text-decoration: none;
+}
+
+#hinh{
+    float: left;
+    width: 200px;
+    height: 150px;
+    line-height: 100px;
+    padding: 0px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    text-align: center;
+    border: 1px solid powderblue;
+}
+
+#hinh img {
+    width: 200px;
+    height: 150px;
+}
+
+#moreItems{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 580px;
+    height: 90px;
+    background: lightgrey;
+}
+.otherItems {
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+    float: left;
+    margin: 10px 12px 0px 10px;
+}
+
+.otherItems img {
+    width: 70px;
+    height: auto;
+}
+
+/*Content Right*/
+#content #right{
+    float: left;
+    margin-left: 20px;
+    width: 200px;
+    height: 350px;
+    border-left: 1px solid blue;
+}
+#menu{
+    color: blue;
+    font-size: 18px;
+    margin-top:10px;
+    padding-left: 10px;
+}
+#menu ul li{
+    margin: 10px 0px 10px 0px;
+    border-bottom: 1px solid blue;
+    font-weight: bold;
+}
+#menu ul li a{
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+/*Footer*/
+#footer {
+    background-color: powderblue;
+    border: 1px solid black;
+    border-left: none;
+    border-right: none;
+    clear: left;
+    width: 900px;
+    height: 50px;
+}
+
+#info {
+    text-align: center;
+    color: darkblue;
+    font-weight: bold;
+    font-size: 20px;
+}
