@@ -1,6 +1,7 @@
 GMAIL ĐH nha trang : thanh.nv.60cntt@ntu.edu.vn : concat12345 
 GMAIL Chính        : thanh2000vnvn@gmail.com    : 26/18maiantiem
 Fb Chính NVT : thanh2000vnvnvn@gmail.com : pass : 26/18maiantiem : GMAIL : sinhviennam2312000@gmail.com : sinhviennam2 : sdt : 0346119577
+Fb Cũ : 100004612334982 : 26/18maiantiem 
 Zalo : 0346119577 : 2618maiantiem 
 Sinhvien.ntu.edu.vn : 60130940 : 03012000 ( VANTHANH )
 Sinhvien.ntu.edu.vn : 60136321 : NGUYENDORAS
