@@ -1,1 +1,14 @@
-Bài Học 
+SQL: 
+A) Tìm những nhân viên có lương lớn hơn lương của ít
+nhất một nhân viên phòng 4
+	SELECT a.MANV,a.TENNV
+	FROM NHAN VIEN a
+	WHERE a.LUONG >=ANY ( SELECT b.LUONG
+				 FROM NhanVien b )
+--------------------------------------------------
+B) Tìm những nhân viên có lương lớn hơn lương của
+tất cả nhân viên phòng 4
+	SELECT a.MANV,a.TENNV
+	FROM NHAN VIEN a
+	WHERE a.LUONG >=ALL ( SELECT b.LUONG
+				 FROM NhanVien b )
