@@ -6,13 +6,13 @@ Zalo : 0346119577 : 2618maiantiem
 Sinhvien.ntu.edu.vn : 60130940 : 03012000 ( VANTHANH )
 Sinhvien.ntu.edu.vn : 60136321 : NGUYENDORAS
 Sinhvien.ntu.edu.vn : 60130217 : 21042018 
-
+Icloud: thanh.nv.60cntt@ntu.edu.vn: Th012345678vn
 FB Ngọc Triêm : 0564608286 : ngoctriem12345  : GMAIL : ngoctriem7@gmail.com : ngoctriem123
 Fb Laybon :      sacemok912@lefaqr5.com : pass : thanh12345 
 FB KenBi       : 100051464960290 : covid192021vnvn
 GMAIL thảo : thuthao1995vnvn@gmail.com : thao1995vnvn  
 Icloud : thanh.nv.60cntt@ntu.edu.vn : Th1234567vn
-MK Wifi : Thanh Tâm VIP 1 : bt0916697427
+MK Wifi : Thanh Tâm VIP 1 : 0916697427
 
 
 GITHUB : nguyenvanthanh312000 : quanque12345
